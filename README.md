@@ -7,7 +7,7 @@ This project is a Flask-based web application designed to verify user-entered da
 1. Clone the repository:
    Open a terminal (e.g., Command Prompt or PowerShell) and run:
    ```cmd
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/json-commits/springboard_software_dev_assesment.git
    cd your-repo-name
    
 2. Set up a virtual environment:
