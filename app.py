@@ -1,6 +1,5 @@
 import os, base64
 import datetime
-from http.client import responses
 
 from flask import Flask, render_template, request
 from dotenv import load_dotenv
